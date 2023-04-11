@@ -4,6 +4,7 @@
 * Competition from <https://www.kaggle.com/competitions/2023-data-mining-hw1/overview>  
 * Using linear regression only numpy
 * With Stochastic Gradient Decsent and Regularization
+* Using AdaGrad as optimizer
 ## Environment
 Using Google Colab
 ## Data Pre-proccessing
@@ -16,4 +17,4 @@ My model achieve the following performance on submission.
 The scoring metric is RMSE    
 |Model|Private Score|Public Score|
 |-----|-------------|------------|
-|Linear Regression|unknown|3.27216|
+|Linear Regression|unknown|3.17348|
